@@ -1,6 +1,8 @@
 #### About this project
  
-The goals of this project were to: 1) find out which acoustic characteristics best characterize seven vocal emotions, and 2) find out which characteristics listeners with normal hearing and listeners with hearing loss use to identify vocal emotion. 
+The goals of this project were to:  
+1) find out which acoustic characteristics best characterize seven vocal emotions
+2) find out which characteristics listeners with normal hearing and listeners with hearing loss use to identify vocal emotion. 
  
 #### Graphs and analyses
  
