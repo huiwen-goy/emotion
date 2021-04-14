@@ -7,6 +7,6 @@ The goals of this project were to:
 #### Graphs and analyses
  
 1. Plots and analyses of the acoustic dataset are found here:
-(https://huiwen-goy.github.io/emotion/emotion_acoustics.html)[https://huiwen-goy.github.io/emotion/emotion_acoustics.html]
+[https://huiwen-goy.github.io/emotion/emotion_acoustics.html](https://huiwen-goy.github.io/emotion/emotion_acoustics.html)
  
 2. [in progress]
